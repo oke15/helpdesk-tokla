@@ -76,6 +76,7 @@ export default defineConfig({
             { text: 'Daftar / Registrasi', link: '/guide/merchant/01-registrasi' },
             { text: 'Panduan Penggunaan Notifikasi Whatsapp', link: '/guide/merchant/20260715-panduan-notif-whatsapp' },
             { text: 'Panduan Penggunaan TTE', link: '/guide/merchant/20251104-panduan-penggunaan-tte' },
+            { text: 'Tambah Pengguna / Admin Toko', link: '/guide/merchant/20260716-tambah-pengguna-admin-toko' },
           ],
         },
         {
