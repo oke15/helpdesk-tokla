@@ -6,7 +6,7 @@ const { VITE_SITE_URL } = loadEnv(
   'VITE_'
 )
 const siteUrl = VITE_SITE_URL
-const defaultOgImage = `${siteUrl}/og-default.png`
+const defaultOgImage = `${siteUrl}/og-default.jpg`
 
 export default defineConfig({
   title: 'Helpdesk Toko Ladang',
@@ -90,6 +90,8 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Kode Bayar Bank Bali', link: '/guide/payment/20260715-pembayaran-kode-bayar-bank-bali' },
+            { text: 'VA BPD DIY', link: '/guide/payment/20260716-pembayaran-va-bpd-diy' },
+            { text: 'VA Bank Mandiri', link: '/guide/payment/20260716-pembayaran-va-bank-mandiri' },
             { text: 'VA Bank Kaltimtara', link: '/guide/payment/20251107-pembayaran-va-bankaltimtara' },
           ],
         },

@@ -8,11 +8,11 @@ hero:
   tagline: Mudah, Cepat, & Aman.
   actions:
     - theme: brand
+      text: Panduan->
+      link: /guide
+    - theme: alt
       text: Tentang SIPLah
       link: /legal/about-siplah
-    - theme: alt
-      text: Panduan
-      link: /guide
 
 features:
   - title: Feature A
