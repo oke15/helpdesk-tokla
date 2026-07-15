@@ -6,7 +6,7 @@ const { VITE_SITE_URL } = loadEnv(
   'VITE_'
 )
 const siteUrl = VITE_SITE_URL
-const defaultOgImage = `${siteUrl}/og-default.svg`
+const defaultOgImage = `${siteUrl}/og-default.png`
 
 export default defineConfig({
   title: 'Helpdesk Toko Ladang',
@@ -57,17 +57,25 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Panduan', link: '/guide' },
-      { text: 'Legal', link: '/legal/about-siplah' },
+      { text: 'Panduan', link: '/guide', activeMatch: '/guide/' },
+      { text: 'Legal', link: '/legal/about-siplah', activeMatch: '/legal/' },
     ],
     sidebar: {
       '/guide/': [
+        {
+          text: 'Panduan Umum',
+          collapsed: false,
+          items: [
+            { text: 'Clear Cache Chrome', link: '/guide/20260715-panduan-clear-cache-chrome' },
+          ],
+        },
         {
           text: 'Merchant / Penyedia',
           collapsed: false,
           items: [
             { text: 'Daftar / Registrasi', link: '/guide/merchant/01-registrasi' },
+            { text: 'Panduan Penggunaan Notifikasi Whatsapp', link: '/guide/merchant/20260715-panduan-notif-whatsapp' },
+            { text: 'Panduan Penggunaan TTE', link: '/guide/merchant/20251104-panduan-penggunaan-tte' },
           ],
         },
         {
@@ -77,11 +85,27 @@ export default defineConfig({
             { text: 'Pembatalan Status BAST', link: '/guide/satdik/20260714-pembatalan-status-bast' },
           ],
         },
+        {
+          text: 'Cara Pembayaran',
+          collapsed: false,
+          items: [
+            { text: 'Kode Bayar Bank Bali', link: '/guide/payment/20260715-pembayaran-kode-bayar-bank-bali' },
+            { text: 'VA Bank Kaltimtara', link: '/guide/payment/20251107-pembayaran-va-bankaltimtara' },
+          ],
+        },
+        {
+          text: 'Regulasi',
+          collapsed: false,
+          items: [
+            { text: 'PMK 58 Tahun 2022', link: '/guide/regulation/20220701-pmk58-tahun-2022' },
+            { text: 'SE Sesjen No 20 Tahun 2022', link: '/guide/regulation/20220701-se-sesjen-no-20-tahun-2022' },
+          ],
+        }
       ],
       '/legal/': [
         {
           text: 'Legal',
-          collapsed: true,
+          collapsed: false,
           items: [
             { text: 'Tentang Siplah', link: '/legal/about-siplah' },
             { text: 'Kebijakan Privasi', link: '/legal/privacy-policy' },

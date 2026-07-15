@@ -17,3 +17,7 @@ docs/.vitepress/cache/
 
 # env
 .env
+
+# vibe enginering
+prompt.txt
+issue.md

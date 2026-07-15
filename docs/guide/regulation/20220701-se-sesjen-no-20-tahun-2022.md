@@ -1,0 +1,51 @@
+---
+title: Surat Edaran Sesjen No 20 Tahun 2022
+description: Rangkuman SE Sesjen No 20 Tahun 2022 tentang Pelaksanaan Pungutan Pajak dalam Pengadaan Barang/Jasa Satuan Pendidikan melalui SIPLah.
+---
+
+# {{ $frontmatter.title }}
+
+> Diterbitkan : 2022-07-01
+
+## Latar Belakang
+
+Surat Edaran ini diterbitkan untuk menindaklanjuti Peraturan Menteri Keuangan Nomor 58/PMK.03/2022 (PMK 58/2022) tentang Penunjukan Pihak Lain Sebagai Pemungut Pajak atas Transaksi Pengadaan Barang dan/atau Jasa melalui Sistem Informasi Pengadaan Pemerintah (SIPLah).
+
+## Poin-Poin Penting
+
+### 1. Integrasi SIPLah dengan Sistem Perpajakan
+
+- Berdasarkan Surat Dirjen Pajak Nomor S-90/PJ/2022 tanggal 28 April 2022, integrasi SIPLah dengan sistem informasi DJP dilakukan paling lambat **1 Juli 2022**.
+- Satuan pendidikan dapat bertransaksi melalui Mitra SIPLah yang sudah menyelesaikan integrasi dengan sistem perpajakan.
+
+### 2. Penghapusan Kewajiban Pajak Satuan Pendidikan
+
+Mulai **1 Juli 2022**, satuan pendidikan yang melakukan pengadaan barang/jasa melalui SIPLah **tidak lagi** melakukan:
+
+- Pemungutan pajak
+- Penyetoran pajak
+- Pelaporan pajak
+
+### 3. Tanggung Jawab Pajak Beralih ke Mitra SIPLah
+
+Pemungutan, penyetoran, dan pelaporan pajak mulai 1 Juli 2022:
+
+- **Menjadi tanggung jawab Mitra SIPLah**, bukan lagi satuan pendidikan.
+- Mitra SIPLah menerapkan:
+  - **PPN 11%** — dikenakan pada satuan pendidikan (kecuali barang yang dikecualikan)
+  - **PPh Pasal 22 sebesar 0,5%** — dikenakan pada penyedia barang/jasa (kecuali yang dikecualikan)
+
+### 4. Imbauan untuk Dinas Pendidikan
+
+- Tidak lagi membebankan pungutan, penyetoran, dan pelaporan pajak pada satuan pendidikan dalam laporan keuangan dan pemeriksaan keuangan atas transaksi melalui SIPLah mulai 1 Juli 2022.
+- Satuan pendidikan cukup **mencatatkan tagihan pelunasan (invoice)** pada Aplikasi Rencana Kegiatan dan Anggaran Sekolah (ARKAS).
+- Untuk **invoice yang terbit sebelum 1 Juli 2022**, satuan pendidikan **tetap memiliki kewajiban** pemungutan, pemotongan, dan pelaporan pajak mandiri.
+- Mendorong satuan pendidikan untuk melakukan pengadaan barang/jasa melalui SIPLah sesuai Permendikbudristek No 18 Tahun 2022.
+
+## Dampak bagi Satuan Pendidikan
+
+| Sebelum 1 Juli 2022                                                         | Sesudah 1 Juli 2022                                               |
+| --------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Satuan pendidikan memungut, menyetor, dan melapor pajak sendiri             | Mitra SIPLah yang bertanggung jawab atas pajak                    |
+| Kewajiban pajak dicatat dan diperiksa di laporan keuangan satuan pendidikan | Cukup catat invoice di ARKAS                                      |
+| PPN dan PPh dikelola manual oleh satuan pendidikan                          | PPN 11% (sekarang 12%) dan PPh 22 0,5% otomatis oleh Mitra SIPLah |
