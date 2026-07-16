@@ -1,7 +1,8 @@
 import { DefaultTheme, defineConfig, loadEnv } from 'vitepress'
 
-const { VITE_SITE_URL } = loadEnv(process.env.NODE_ENV || 'development', process.cwd(), 'VITE_')
+const { VITE_SITE_URL, VITE_GITHUB_URL } = loadEnv(process.env.NODE_ENV || 'development', process.cwd(), 'VITE_')
 const siteUrl = VITE_SITE_URL
+const githubUrl = VITE_GITHUB_URL
 const defaultOgImage = `${siteUrl}/og-default.jpg`
 
 // navbar items
@@ -190,7 +191,7 @@ export default defineConfig({
                 },
             ],
         },
-        socialLinks: [{ icon: 'github', link: 'https://github.com/vuejs/vitepress' }],
+        socialLinks: [{ icon: 'github', link: VITE_GITHUB_URL }],
         search: {
             provider: 'local',
         },
