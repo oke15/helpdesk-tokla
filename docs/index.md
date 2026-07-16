@@ -8,8 +8,8 @@ hero:
     tagline: Mudah, Cepat, & Aman.
     actions:
         - theme: brand
-          text: Panduan->
-          link: /guide
+          text: Panduan ->
+          link: /guide/list
         - theme: alt
           text: Tentang SIPLah
           link: /legal/about-siplah
@@ -19,9 +19,9 @@ features:
       details: Daftar Pertanyaan yang sering ditanyakan, klik di sini.
       link: /faq
     - title: SIPLah Toko Ladang
-      details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+      details: Kunjungi Web App SIPLah Toko Ladang untuk memulai Transaksi
       link: https://siplah.tokoladang.co.id
     - title: Blog & Informasi
       details: Informasi terbaru, pengumuman, dan berita seputar Toko Ladang
-      link: /blog
+      link: /blog/list
 ---
