@@ -104,6 +104,8 @@ export default defineConfig({
             { text: 'VA BPD DIY', link: '/guide/payment/20260716-pembayaran-va-bpd-diy' },
             { text: 'Kode Bayar Bank Mandiri', link: '/guide/payment/20260716-pembayaran-kode-bayar-bank-mandiri' },
             { text: 'VA Bank Kaltimtara', link: '/guide/payment/20251107-pembayaran-va-bankaltimtara' },
+            { text: 'VA Bank Jateng', link: '/guide/payment/20260716-pembayaran-va-bank-jateng' },
+            { text: 'VA BPD Sulselbar', link: '/guide/payment/20260716-pembayaran-va-bpd-sulselbar' },
           ],
         },
         {

@@ -1,14 +1,17 @@
 # AGENTS.md — Helpdesk Toko Ladang
 
 ## Project
+
 VitePress 2.0.0-alpha.18 documentation site in Indonesian.
 
 ## Commands
+
 - `pnpm docs:dev` — Start dev server
 - `pnpm docs:build` — Build for production
 - `pnpm docs:preview` — Preview production build
 
 ## Structure
+
 ```
 ├── docs/
 │   ├── .vitepress/config.mts   # Site config
@@ -24,15 +27,17 @@ VitePress 2.0.0-alpha.18 documentation site in Indonesian.
 ```
 
 ## Conventions
+
 - **Language**: Indonesian (bahasa Indonesia)
 - **Title**: `title` in frontmatter, then `# {{ $frontmatter.title }}` as H1
 - **Clean URLs**: enabled — link without `.md` extension
 - **Sidebar**: edit `config.mts` to add pages to `themeConfig.sidebar`
-- **Naming**: numeric prefix for ordering (`01-registrasi.md`), or `YYYYMMDD-` for date-based pages
+- **Naming**: numeric prefix for ordering (`01-registrasi.md`), or `YYYYMMDD-HHMMSS-` for date-based pages
 - **Images**: use external CDN URLs or relative paths
 - **Search**: local search provider configured
 
 ## Adding a new page
+
 1. Create `.md` file under the appropriate `docs/guide/` subdirectory
 2. Add frontmatter with `title`
 3. Use `# {{ $frontmatter.title }}` for the page heading
