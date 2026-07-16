@@ -8,7 +8,7 @@ export interface Post {
   }
 }
 
-const modules = (import.meta as any).glob('/blog/**/*.md', { eager: true })
+const modules = (import.meta as any).glob('../../blog/**/*.md', { eager: true })
 
 export const posts: Post[] = Object.entries(modules)
   .filter(([path]) => {
@@ -16,9 +16,10 @@ export const posts: Post[] = Object.entries(modules)
     return !['list.md', 'index.md'].includes(basename)
   })
   .map(([path, module]) => {
-    const fm = (module as Record<string, unknown>).frontmatter as Record<string, unknown> | undefined
+    const pageData = (module as Record<string, unknown>).__pageData as Record<string, unknown> | undefined
+    const fm = pageData?.frontmatter as Record<string, unknown> | undefined
     return {
-      url: path.replace(/\.md$/, ''),
+      url: path.replace(/\.md$/, '').replace(/^\.\.\/\.\.\/blog/, '/blog'),
       frontmatter: {
         title: (fm?.title as string) ?? '',
         description: fm?.description as string | undefined,
