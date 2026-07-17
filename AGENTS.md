@@ -35,7 +35,7 @@ VitePress 2.0.0-alpha.18 documentation site in Indonesian.
 - **Title**: `title` in frontmatter, then `# {{ $frontmatter.title }}` as H1
 - **Clean URLs**: enabled — link without `.md` extension
 - **Sidebar**: edit `config.mts` to add pages to `themeConfig.sidebar`
-- **Naming**: numeric prefix for ordering (`01-registrasi.md`), or `YYYYMMDD-HHMMSS-` for date-based pages (HHMMSS pakai jam asli saat file dibuat, bukan 000000)
+- **Naming**: numeric prefix for ordering `YYYYMMDD-HHmmss-` use datetimenow utc+7, example `20260715-153815-guide.md`
 - **Images**: use external CDN URLs or relative paths
 - **Search**: local search provider configured
 
@@ -49,7 +49,7 @@ VitePress 2.0.0-alpha.18 documentation site in Indonesian.
 
 ## Adding a new blog post
 
-1. Create `.md` file under `docs/blog/` with `YYYYMMDD-HHMMSS-nama-post.md` (pakai jam asli)
+1. Create `.md` file under `docs/blog/` with `YYYYMMDD-HHmmss-nama-post.md` (pakai jam asli UTC+7)
 2. Add frontmatter with `title`, `description`, `date`, and `sidebar: false`
 3. Use `# {{ $frontmatter.title }}` for the page heading
 4. Add link to `docs/blog/index.md`
