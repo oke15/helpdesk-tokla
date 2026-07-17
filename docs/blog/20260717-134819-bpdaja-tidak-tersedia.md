@@ -6,6 +6,7 @@ tags:
     - berita
     - pengumuman
 sidebar: false
+lastUpdated: false
 ogImage: https://cdn-pusatinformasi.siplahtokoladang.id/posts/thumbnails/4t75judpx7Evr2O2Zwn86udiDJUgmX5r8e2f2YM0.jpg
 ---
 
