@@ -5,33 +5,4 @@ description: Kumpulan panduan dan tutorial untuk Merchant/Penyedia dan Satdik/Se
 
 # {{ $frontmatter.title }}
 
-## Panduan Umum
-
-- [Clear Cache Chrome](/guide/20260715-000000-panduan-clear-cache-chrome)
-
-## Merchant / Penyedia
-
-- [Daftar / Registrasi](/guide/merchant/01-registrasi)
-- [Panduan Penggunaan Notifikasi WhatsApp](/guide/merchant/20260715-000000-panduan-notif-whatsapp)
-- [Panduan Penggunaan TTE](/guide/merchant/20251104-000000-panduan-penggunaan-tte)
-- [Tambah Pengguna / Admin Toko](/guide/merchant/20260716-000000-tambah-pengguna-admin-toko)
-
-## Satdik / Sekolah
-
-- [Login](/guide/satdik/01-login)
-- [Pembatalan Status BAST](/guide/satdik/20260714-000000-pembatalan-status-bast)
-
-## Cara Pembayaran
-
-- [Kode Bayar Bank Bali](/guide/payment/20260715-000000-pembayaran-kode-bayar-bank-bali)
-- [VA Bank Mandiri](/guide/payment/20260716-000000-pembayaran-va-bank-mandiri)
-- [VA Bank Jateng](/guide/payment/20260716-000000-pembayaran-va-bank-jateng)
-- [VA BPD DIY](/guide/payment/20260716-000000-pembayaran-va-bpd-diy)
-- [VA BPD Sulselbar](/guide/payment/20260716-000000-pembayaran-va-bpd-sulselbar)
-- [VA Bank Kaltimtara](/guide/payment/20251107-000000-pembayaran-va-bankaltimtara)
-
-## Regulasi
-
-- [PMK 58 Tahun 2022](/guide/regulation/20220701-000000-pmk58-tahun-2022)
-- [SE Sesjen No 20 Tahun 2022](/guide/regulation/20220701-000000-se-sesjen-no-20-tahun-2022)
-- [PMK 131 Tahun 2024](/guide/regulation/20241231-000000-pmk131-tahun-2024)
+<GuideList />
