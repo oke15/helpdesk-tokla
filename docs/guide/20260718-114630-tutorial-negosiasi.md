@@ -80,3 +80,7 @@ Pada halaman Checkout, lakukan proses pemesanan dan pemadanan di HPP seperti lay
 Dokumen negosiasi dapat diunduh setelah proses pemesanan berhasil dibuat.
 
 Selamat bernegosiasi, salam tokla!
+
+> [!WARNING]
+>
+> - Jika ada negosiasi **belum selesai(belum di checkout)**, maka sekolah tidak dapat melakukan negoasiasi baru.
