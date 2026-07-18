@@ -182,6 +182,10 @@ export default defineConfig({
                             text: 'Clear Cache Chrome',
                             link: '/guide/20260715-000000-panduan-clear-cache-chrome',
                         },
+                        {
+                            text: 'Tutorial Negosiasi',
+                            link: '/guide/20260718-114630-tutorial-negosiasi',
+                        },
                     ],
                 },
                 {

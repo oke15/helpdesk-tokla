@@ -37,7 +37,7 @@ VitePress 2.0.0-alpha.18 documentation site in Indonesian.
 
 ### General Rules (applies to all `.md` files)
 
-- **Naming**: numeric prefix `YYYYMMDD-HHmmss-` based on current time UTC+7, followed by a kebab-case slug.  
+- **Naming**: numeric prefix `YYYYMMDD-HHmmss-` based on current time UTC+7 and use datetime now, followed by a kebab-case slug.  
   Example: `20260715-153815-guide.md`
 - **Frontmatter**: must include `title`, `description`, `date`
 - **H1**: always use `# {{ $frontmatter.title }}`
@@ -58,6 +58,7 @@ VitePress 2.0.0-alpha.18 documentation site in Indonesian.
     - `lastUpdated: false`
     - `ogImage` — full URL or path to the blog thumbnail image
 - Content structure:
+
     ```markdown
     # {{ $frontmatter.title }}
 
@@ -65,4 +66,5 @@ VitePress 2.0.0-alpha.18 documentation site in Indonesian.
 
     <PageDate />
     ```
+
 - `TagBadge` must come right after the H1 (with a blank line delimiter) and before `<PageDate />`

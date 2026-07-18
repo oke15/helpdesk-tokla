@@ -2,9 +2,12 @@
 title: Panduan penutupan (batal) transaksi setelah bast pada siplah toko ladang
 description: Panduan langkah demi langkah untuk membatalkan transaksi setelah BAST di SIPLah Toko Ladang.
 ogImage: https://cdn-pusatinformasi.siplahtokoladang.id/posts/thumbnails/r3PNa99Nhr4YXh1nzcqjTrINDkm7Fg5TabOHZeFn.png
+date: 2026-07-14
 ---
 
 # {{ $frontmatter.title }}
+
+<PageDate />
 
 ![thumbnail](https://cdn-pusatinformasi.siplahtokoladang.id/posts/thumbnails/r3PNa99Nhr4YXh1nzcqjTrINDkm7Fg5TabOHZeFn.png)
 
