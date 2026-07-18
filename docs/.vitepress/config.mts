@@ -48,6 +48,7 @@ const navbarItems = [
     { text: 'Blog', link: '/blog/list', activeMatch: '/blog/' },
     { text: 'Legal', link: '/legal/about-siplah', activeMatch: '/legal/' },
     { text: 'FAQ', link: '/faq', activeMatch: '/faq' },
+    { text: 'Download', link: '/download', activeMatch: '/download' },
 ]
 
 // sidebar items
@@ -229,7 +230,13 @@ export default defineConfig({
                 },
             ],
         },
-        socialLinks: [{ icon: 'github', link: githubUrl }],
+        socialLinks: [
+            { icon: 'github', link: githubUrl },
+            { icon: 'youtube', link: 'https://www.youtube.com/@tokoladang' },
+            { icon: 'instagram', link: 'https://www.instagram.com/tokoladang/' },
+            { icon: 'telegram', link: 'https://t.me/siplahtokoladang' },
+            { icon: 'tiktok', link: 'https://www.tiktok.com/@tokoladang' },
+        ],
         search: {
             provider: 'local',
         },

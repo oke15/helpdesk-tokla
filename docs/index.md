@@ -37,11 +37,11 @@ features:
     - icon: 🏫
       title: Panduan Satdik
       details: Panduan untuk sekolah dalam menggunakan SIPlah
-      link: /guide/satdik/01-login
+      link: /guide/satdik/20260714-000000-pembatalan-status-bast
     - icon: 💳
       title: Cara Pembayaran
       details: Panduan pembayaran berbagai metode yang tersedia
-      link: /guide/payment/
+      link: /guide/payment/20260715-000000-pembayaran-kode-bayar-bank-bali
 ---
 
 ## Link Cepat
