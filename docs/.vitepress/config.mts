@@ -7,7 +7,7 @@ const { VITE_SITE_URL, VITE_GITHUB_URL, VITE_GA_ID } = loadEnv(
 )
 const siteUrl = VITE_SITE_URL
 const githubUrl = VITE_GITHUB_URL
-const defaultOgImage = `${siteUrl}/og-default.jpg`
+const defaultOgImage = `${siteUrl}/og-default-2.jpg`
 
 // head
 
