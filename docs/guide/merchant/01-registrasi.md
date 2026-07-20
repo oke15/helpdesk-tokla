@@ -5,7 +5,7 @@ date: 2026-06-15
 ogImage: /images/image-1.png
 ---
 
-# {{ $frontmatter.title }}
+# Panduan registrasi merchant
 
 <PageDate />
 

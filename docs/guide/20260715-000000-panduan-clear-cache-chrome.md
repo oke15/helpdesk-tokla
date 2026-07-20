@@ -4,7 +4,7 @@ description: Panduan membersihkan cache browser Google Chrome untuk mengatasi ma
 date: 2026-02-10
 ---
 
-# {{ $frontmatter.title }}
+# Panduan Clear Cache Browser Google Chrome
 
 <PageDate />
 

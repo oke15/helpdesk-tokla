@@ -5,7 +5,7 @@ date: 2025-11-04
 ogImage: https://cdn-pusatinformasi.siplahtokoladang.id/posts/thumbnails/Ud9tsphTyoVQSXlnL44VgvlZxkC23sxd0rlyUffz.jpg
 ---
 
-# {{ $frontmatter.title }}
+# Panduan Penggunaan TTE SIPLah Toko Ladang
 
 <PageDate />
 

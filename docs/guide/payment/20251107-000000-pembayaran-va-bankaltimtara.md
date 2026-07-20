@@ -5,7 +5,7 @@ date: 2025-11-07
 ogImage: https://cdn-pusatinformasi.siplahtokoladang.id/posts/thumbnails/5PW120uyPpjhWQsFi8aohIrUBWAzm5HpI9RIC07t.jpg
 ---
 
-# {{ $frontmatter.title }}
+# Cara Pembayaran Virtual Account (VA) di Bank Kaltimtara
 
 <PageDate />
 

@@ -5,7 +5,7 @@ date: 2026-07-16
 ogImage: https://cdn-pusatinformasi.siplahtokoladang.id/posts/thumbnails/uSKsRivaOYwi6hWJJAa3ndj3v3gNacCCTQGdzvYb.jpg
 ---
 
-# {{ $frontmatter.title }}
+# Cara Pembayaran Virtual Account (VA) di BPD Sulselbar
 
 <PageDate />
 

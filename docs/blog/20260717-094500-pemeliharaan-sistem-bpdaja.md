@@ -10,7 +10,7 @@ tags:
     - pengumuman
 ---
 
-# {{ $frontmatter.title }}
+# Pemberitahuan Pemeliharaan Sistem BPDAja
 
 <TagBadge :tags="$frontmatter.tags" />
 

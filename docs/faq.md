@@ -4,7 +4,7 @@ description: Kumpulan pertanyaan umum seputar SIPLah Toko Ladang, mulai dari pem
 sidebar: false
 ---
 
-# {{ $frontmatter.title }}
+# FAQ - Pertanyaan Umum
 
 Berikut daftar pertanyaan yang sering ditanyakan oleh Sobat TokLa:
 

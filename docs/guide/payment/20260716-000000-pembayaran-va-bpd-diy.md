@@ -5,7 +5,7 @@ date: 2026-07-16
 ogImage: https://cdn-pusatinformasi.siplahtokoladang.id/posts/thumbnails/xqkU9buSVzckKPTTERRnqdskleM8Usnji1eCZA81.jpg
 ---
 
-# {{ $frontmatter.title }}
+# Cara Pembayaran Virtual Account (VA) di BPD DIY
 
 <PageDate />
 

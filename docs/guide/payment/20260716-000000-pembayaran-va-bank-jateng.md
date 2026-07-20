@@ -5,7 +5,7 @@ date: 2026-07-16
 ogImage: https://cdn-pusatinformasi.siplahtokoladang.id/posts/thumbnails/bAiFFeefhxGqbKvsa45cONI0IleJcrHaP3OhyyLz.jpg
 ---
 
-# {{ $frontmatter.title }}
+# Cara Pembayaran Virtual Account (VA) di Bank Jateng
 
 <PageDate />
 

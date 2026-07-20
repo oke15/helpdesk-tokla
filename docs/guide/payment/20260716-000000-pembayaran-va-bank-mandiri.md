@@ -4,7 +4,7 @@ description: Panduan lengkap pembayaran Virtual Account Toko Ladang melalui Bank
 date: 2026-07-16
 ---
 
-# {{ $frontmatter.title }}
+# Cara Pembayaran Kode Bayar Bank Mandiri
 
 <PageDate />
 

@@ -5,7 +5,7 @@ ogImage: https://cdn-pusatinformasi.siplahtokoladang.id/posts/thumbnails/r3PNa99
 date: 2026-07-14
 ---
 
-# {{ $frontmatter.title }}
+# Panduan penutupan (batal) transaksi setelah bast pada siplah toko ladang
 
 <PageDate />
 

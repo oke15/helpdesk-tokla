@@ -5,6 +5,6 @@ sidebar: false
 lastUpdated: false
 ---
 
-# {{ $frontmatter.title }}
+# Blog & Informasi
 
 <BlogList />

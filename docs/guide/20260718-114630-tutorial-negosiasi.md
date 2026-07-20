@@ -5,7 +5,7 @@ ogImage: /images/image-10.png
 date: 2026-07-18
 ---
 
-# {{ $frontmatter.title }}
+# Tutorial Negosiasi
 
 <PageDate />
 
@@ -13,11 +13,11 @@ date: 2026-07-18
 
 Berikut tutorial negosiasi yang diawali dari pihak sekolah/satdik:
 
-### 1. Masukkan ke Keranjang
+### 1. Masukkan Semua Item ke Keranjang
 
 ![image](/images/image-11.png)
 
-Masukkan semua barang yang ingin Anda beli ke dalam Keranjang Belanja, lalu cari tulisan **Negosiasi** dan klik tombol tersebut.
+Masukkan semua item/barang yang ingin Anda beli ke dalam Keranjang Belanja, lalu cari tulisan **Negosiasi** dan klik tombol tersebut.
 
 ### 2. Input Harga Negosiasi
 

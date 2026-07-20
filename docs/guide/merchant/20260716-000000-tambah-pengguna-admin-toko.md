@@ -5,7 +5,7 @@ date: 2025-10-27
 ogImage: https://cdn-pusatinformasi.siplahtokoladang.id/posts/thumbnails/yvcvVwhTLpsyG7Kxx3SbkM9HaiscWsgZ2c90TymZ.png
 ---
 
-# {{ $frontmatter.title }}
+# Tambah Pengguna atau Admin Toko di SIPLah Toko Ladang
 
 <PageDate />
 

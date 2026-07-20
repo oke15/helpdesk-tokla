@@ -3,7 +3,7 @@ title: Tentang SIPLah
 description: Informasi lengkap tentang SIPLah (Sistem Informasi Pengadaan Sekolah) dari Kemendikdasmen.
 ---
 
-# {{ $frontmatter.title }}
+# Tentang SIPLah
 
 `Sistem Informasi Pengadaan Sekolah` (SIPLah) adalah sistem digital dari Kemendikdasmen yang membantu satuan pendidikan (Satdik) berbelanja kebutuhannya dari Penyedia barang dan jasa yang tergabung dalam Mitra pengelola pasar daring SIPLah. [[1]](https://siplah.kemendikdasmen.go.id)
 

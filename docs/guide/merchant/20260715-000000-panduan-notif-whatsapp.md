@@ -5,7 +5,7 @@ date: 2025-11-12
 ogImage: https://cdn-pusatinformasi.siplahtokoladang.id/posts/thumbnails/T19q18uFmd0sNDCiHTHy6r4pEjeZU1YtyBpIZjI4.jpg
 ---
 
-# {{ $frontmatter.title }}
+# Panduan penggunaan notifikasi whatsapp
 
 <PageDate />
 

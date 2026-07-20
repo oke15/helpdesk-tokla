@@ -40,7 +40,7 @@ VitePress 2.0.0-alpha.18 documentation site in Indonesian.
 - **Naming**: numeric prefix `YYYYMMDD-HHmmss-` based on current time UTC+7 and use datetime now, followed by a kebab-case slug.  
   Example: `20260715-153815-guide.md`
 - **Frontmatter**: must include `title`, `description`, `date`
-- **H1**: always use `# {{ $frontmatter.title }}`
+- **H1**: hardcode `title` from frontmatter title
 - **Date**: place `<PageDate />` on its own line after the H1 (with a blank line separator)
 
 ### Guide `.md` Files

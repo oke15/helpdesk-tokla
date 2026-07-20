@@ -3,7 +3,7 @@ title: Syarat dan Ketentuan SIPLah Toko Ladang
 description: Syarat dan ketentuan resmi penggunaan SIPLah Toko Ladang untuk seluruh pengguna.
 ---
 
-# {{ $frontmatter.title }}
+# Syarat dan Ketentuan SIPLah Toko Ladang
 
 PT Ladang Karya Husada (selanjutnya disebut "SIPLah Toko Ladang") adalah suatu perseroan terbatas yang salah satu jenis usahanya bergerak di bidang jasa. SIPLah Toko Ladang dalam hal ini menyediakan perdagangan elektronik (e-commerce) di mana pengguna dapat melakukan transaksi jual-beli barang dan menggunakan berbagai fitur serta layanan yang tersedia. Setiap pihak yang berada di wilayah Negara Kesatuan Republik Indonesia dapat mengakses SIPLah Toko Ladang untuk kemudian mendaftar Toko/Penyedia, menjual Barang/Jasa, membeli Barang/Jasa, atau hanya sekadar mengakses/mengunjungi SIPLah Toko Ladang. Sebagai penunjang bisnis dan penyedia perdagangan elektronik, SIPLah Toko Ladang menjamin keamanan dan kenyamanan bagi para Pengguna.
 

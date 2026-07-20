@@ -3,7 +3,7 @@ title: Kebijakan Privasi Toko Ladang
 description: Kebijakan privasi dan perlindungan data pribadi untuk pengguna aplikasi Toko Ladang.
 ---
 
-# {{ $frontmatter.title }}
+# Kebijakan Privasi Toko Ladang
 
 ## 1. Pendahuluan
 
