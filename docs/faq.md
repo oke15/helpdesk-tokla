@@ -32,7 +32,7 @@ Berikut daftar pertanyaan yang sering ditanyakan oleh Sobat TokLa:
 1. Laporannya seperti laporan belanja di luar SIPLah, panduannya ada di buku panduan ARKAS **halaman 115**.
 2. Pada tahap ke-3 di bagian "Perhitungan Pajak" **HARUS DICENTANG** Belanja SIPLah, agar bebas lapor pajak secara otomatis.
 
-![01kj9ck5fcp4w3x4vsykk5fq1t](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01kj9ck5fcp4w3x4vsykk5fq1t.webp)
+![Contoh laporan manual ARKAS](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01kj9ck5fcp4w3x4vsykk5fq1t.webp)
 
 link download buku panduan:
 
