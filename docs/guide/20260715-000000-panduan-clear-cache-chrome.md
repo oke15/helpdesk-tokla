@@ -21,19 +21,19 @@ Jika jalan pintas di atas belum bisa menyelesaikan masalah sobat tokla, lakukan 
 1. Klik icon di sebelah URL
 2. Klik **Cookies and site data**
 
-![01kh3af3ytwyxqdam58yrzfkee](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01kh3af3ytwyxqdam58yrzfkee.webp)
+![Klik Cookies and site data](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01kh3af3ytwyxqdam58yrzfkee.webp)(https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01kh3af3ytwyxqdam58yrzfkee.webp)
 
 3. Klik **manage on-device site data**
 
-![01kh3ah861veb9cgzdxzrx98h4](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01kh3ah861veb9cgzdxzrx98h4.webp)
+![Klik manage on-device site data](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01kh3ah861veb9cgzdxzrx98h4.webp)(https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01kh3ah861veb9cgzdxzrx98h4.webp)
 
 4. Klik icon **Hapus**, **hapus semuanya**
 
-![01kh3ajhhqws0xe41jdb9vm7fc](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01kh3ajhhqws0xe41jdb9vm7fc.webp)
+![Klik hapus data site](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01kh3ajhhqws0xe41jdb9vm7fc.webp)(https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01kh3ajhhqws0xe41jdb9vm7fc.webp)
 
 5. Klik tombol **Reload**
 
-![01kh3ajttbry3a79xh3dvhcp43](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01kh3ajttbry3a79xh3dvhcp43.webp)
+![Klik tombol Reload](https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01kh3ajttbry3a79xh3dvhcp43.webp)(https://cdn-pusatinformasi.siplahtokoladang.id/resources/images/01kh3ajttbry3a79xh3dvhcp43.webp)
 
 Sobat TokLa, juga bisa melihat panduan video berikut :
 

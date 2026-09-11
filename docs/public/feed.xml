@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blog &amp; Informasi — Toko Ladang</title>
+        <link>https://siplah.tokoladang.co.id/helpdesk/blog/list</link>
+        <description>Informasi terbaru, pengumuman, dan berita seputar Toko Ladang dan SIPLah</description>
+        <language>id</language>
+        <lastBuildDate>Mon, 20 Jul 2026 07:19:52 GMT</lastBuildDate>
+        <atom:link href="https://siplah.tokoladang.co.id/helpdesk/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+        <title>Daftar Bank BPDAja Tidak Lagi Tersedia di SIPLah</title>
+        <link>https://siplah.tokoladang.co.id/helpdesk/blog/20260717-134819-bpdaja-tidak-tersedia</link>
+        <guid>https://siplah.tokoladang.co.id/helpdesk/blog/20260717-134819-bpdaja-tidak-tersedia</guid>
+        <description>Mulai 17 Juli 2026, metode pembayaran melalui jaringan BPDAja resmi dinonaktifkan di SIPLah Toko Ladang. Berikut daftar bank terdampak dan alternatif pembayaran yang tersedia.</description>
+        <pubDate>Fri, 17 Jul 2026 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+        <title>Pemberitahuan Pemeliharaan Sistem BPDAja</title>
+        <link>https://siplah.tokoladang.co.id/helpdesk/blog/20260717-094500-pemeliharaan-sistem-bpdaja</link>
+        <guid>https://siplah.tokoladang.co.id/helpdesk/blog/20260717-094500-pemeliharaan-sistem-bpdaja</guid>
+        <description>Informasi mengenai pemeliharaan sistem BPDAja yang berdampak pada layanan pembayaran SIPLah melalui beberapa bank daerah</description>
+        <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
+    </item>
+    </channel>
+</rss>
